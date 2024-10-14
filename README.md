@@ -31,4 +31,4 @@ I'm a passionate developer interested in [your interests]. Currently, I'm workin
 
 ---
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=6&width=800" alt="Recently played" style="width: 100%; max-width: 800px; height: auto; display: block;" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=6" alt="Recently played" style="width: 100%; max-width: 800px; height: auto; display: block;" />

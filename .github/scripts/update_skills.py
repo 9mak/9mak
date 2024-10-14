@@ -1,24 +1,40 @@
 import requests
 import os
 import re
+import sys
 
 def get_repo_languages(username):
-    token = os.environ.get('GITHUB_TOKEN')
-    headers = {'Authorization': f'token {token}'}
-    
-    repos_url = f'https://api.github.com/users/{username}/repos'
-    repos = requests.get(repos_url, headers=headers).json()
-    
-    languages = set()
-    for repo in repos:
-        lang = repo['language']
-        if lang:
-            languages.add(lang.lower())
-    
-    return languages
+    try:
+        token = os.environ.get('GITHUB_TOKEN')
+        if not token:
+            raise ValueError("GITHUB_TOKEN is not set in environment variables")
+        
+        headers = {'Authorization': f'token {token}'}
+        repos_url = f'https://api.github.com/users/{username}/repos'
+        response = requests.get(repos_url, headers=headers)
+        response.raise_for_status()
+        repos = response.json()
+        
+        languages = set()
+        for repo in repos:
+            lang = repo.get('language')
+            if lang:
+                languages.add(lang.lower())
+        
+        return languages
+    except requests.RequestException as e:
+        print(f"Error fetching repository data: {e}", file=sys.stderr)
+        return set()
+    except ValueError as e:
+        print(f"Error: {e}", file=sys.stderr)
+        return set()
+    except Exception as e:
+        print(f"Unexpected error occurred: {e}", file=sys.stderr)
+        return set()
 
 def update_readme(languages):
-    language_to_icon = {
+    try:
+        language_to_icon = {
         'ableton': 'ableton', 'activitypub': 'activitypub', 'actix': 'actix', 'adonis': 'adonis',
         'ae': 'ae', 'aiscript': 'aiscript', 'alpinejs': 'alpinejs', 'anaconda': 'anaconda',
         'androidstudio': 'androidstudio', 'angular': 'angular', 'ansible': 'ansible',
@@ -74,23 +90,37 @@ def update_readme(languages):
         'vue': 'vue', 'vuetify': 'vuetify', 'wasm': 'wasm', 'webflow': 'webflow', 'webpack': 'webpack',
         'webstorm': 'webstorm', 'windicss': 'windicss', 'windows': 'windows', 'wordpress': 'wordpress',
         'workers': 'workers', 'xd': 'xd', 'yarn': 'yarn', 'yew': 'yew', 'zig': 'zig'
-    }
-    
-    icons = ','.join([language_to_icon.get(lang, lang) for lang in languages if lang in language_to_icon])
-    
-    with open('README.md', 'r') as file:
-        content = file.read()
-    
-    skills_line = f'<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i={icons}&perline=6" /></a></p>'
-    
-    # READMEの該当部分を更新
-    pattern = r'<p align="center">.*?<\/p>'
-    updated_content = re.sub(pattern, skills_line, content, flags=re.DOTALL)
-    
-    with open('README.md', 'w') as file:
-        file.write(updated_content)
+        }
+        
+        icons = ','.join([language_to_icon.get(lang, lang) for lang in languages if lang in language_to_icon])
+        
+        with open('README.md', 'r') as file:
+            content = file.read()
+        
+        skills_line = f'<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i={icons}&perline=6" /></a>'
+        
+        pattern = r'<a href="https://skillicons\.dev">.*?<\/a>'
+        updated_content = re.sub(pattern, skills_line, content, flags=re.DOTALL)
+        
+        with open('README.md', 'w') as file:
+            file.write(updated_content)
+        
+        print("README.md has been successfully updated.")
+    except FileNotFoundError:
+        print("Error: README.md file not found.", file=sys.stderr)
+    except IOError as e:
+        print(f"Error reading or writing README.md: {e}", file=sys.stderr)
+    except Exception as e:
+        print(f"Unexpected error occurred while updating README: {e}", file=sys.stderr)
 
 if __name__ == '__main__':
-    username = '9mak'  # GitHubのユーザー名を指定
-    languages = get_repo_languages(username)
-    update_readme(languages)
+    try:
+        username = os.environ.get('GITHUB_USERNAME', '9mak')
+        languages = get_repo_languages(username)
+        if languages:
+            update_readme(languages)
+        else:
+            print("No languages found or error occurred. README not updated.", file=sys.stderr)
+    except Exception as e:
+        print(f"Script execution failed: {e}", file=sys.stderr)
+        sys.exit(1)
