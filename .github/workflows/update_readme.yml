@@ -2,8 +2,12 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 毎日午前0時に実行
+    - cron: '0 */6 * * *'  # 6時間ごとに実行
   workflow_dispatch:  # 手動実行用
+
+env:
+  GITHUB_USERNAME: '9mak'
+  CONNPASS_NICKNAME: '9mak'
 
 jobs:
   update-readme:
@@ -17,15 +21,19 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests
-    - name: Update README
+        pip install requests feedparser
+    - name: Update Skills
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: python .github/scripts/update_skills.py
+    - name: Update Zenn Articles
+      run: python .github/scripts/update_zenn.py
+    - name: Update Connpass Events
+      run: python .github/scripts/update_connpass.py
     - name: Commit and push if changed
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git add -A
+        git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "Update README"
         git push
