@@ -21,12 +21,14 @@ I'm a passionate developer interested in [your interests]. Currently, I'm workin
 
 ## 📊 GitHub Stats
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" width="32%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" width="32%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=8" width="32%" />
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=8" width="32%" />
+</div>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9mak&theme=bear" alt="Profile Details" width="100%" />
 
 ---
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=6&width=700" alt="Recently played" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=6&width=800" alt="Recently played" style="width: 100%; max-width: 800px; height: auto; display: block;" />
