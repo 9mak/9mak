@@ -11,13 +11,16 @@ I'm a passionate developer interested in [your interests]. Currently, I'm workin
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [[AWS] SigV4計算のコード書いてみた](https://zenn.dev/ap_com/articles/aws-sigv4-calclator)
+- [FlaskとDockerのさわりだけやってみた](https://zenn.dev/ap_com/articles/flask-setup-and-docker-guide)
+- [[Windows] 新しくPC買ったのでWSL2を導入してみる](https://zenn.dev/ap_com/articles/install-wsl2-on-windows)
+- [Route53のクエリログの見方調べてみた](https://zenn.dev/ap_com/articles/route53-query-logs-analysis)
+- [DialogFlow CXで天気予報チャットボットをつくる: Flow,Pages編](https://zenn.dev/ap_com/articles/dialogflow-chatbot-shuzo-weather-forecast-flowpage)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,docker&perline=6" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,css,js,dart&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
