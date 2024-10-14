@@ -44,11 +44,11 @@ I also love:
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" style="flex: 1 1 50%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=8" style="flex: 1 1 50%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" style="flex: 1 1 50%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9mak&theme=bear" style="flex: 1 1 50%;" />
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=8" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9mak&theme=bear" width="49%" />
 </div>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9mak&theme=bear" alt="Profile Details" width="100%" />
