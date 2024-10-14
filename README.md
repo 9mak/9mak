@@ -15,6 +15,8 @@ Outside of work:
 - ⛺ Camping lover
 - 📚 Avid reader
 - 📷 Photography hobbyist
+
+I also love:
 - 🎭 Foreign dramas
 - 🎵 Music
 - 🎙️ Rakugo (traditional Japanese comic storytelling)
