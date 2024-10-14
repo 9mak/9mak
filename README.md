@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 9mak 👋</h1>
+<h1>Hi there, I'm 9mak 👋</h1>
 
 ## 🐻 About Me
 
@@ -21,18 +21,12 @@ I'm a passionate developer interested in [your interests]. Currently, I'm workin
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=8" width="32%" />
-</div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" width="32%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" width="32%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=8" width="32%" />
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9mak&theme=bear" alt="Profile Details" />
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9mak&theme=bear" alt="Profile Details" width="100%" />
 
 ---
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=6&width=700" alt="Recently played" />
-</p>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=6&width=700" alt="Recently played" />
