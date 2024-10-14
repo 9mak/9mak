@@ -44,10 +44,10 @@ I also love:
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: space-between; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" style="flex: 1; max-width: 33%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" style="flex: 1; max-width: 33%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=8" style="flex: 1; max-width: 33%;" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" style="flex: 1 1 auto;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" style="flex: 1 1 auto;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=8" style="flex: 1 1 auto;" />
 </div>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9mak&theme=bear" alt="Profile Details" width="100%" />
