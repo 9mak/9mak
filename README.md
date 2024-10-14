@@ -2,11 +2,30 @@
 
 ## 🐻 About Me
 
-I'm a passionate developer interested in [your interests]. Currently, I'm working on [current projects] and learning [technologies or skills you're learning].
+I'm a engineer from Japan.
+
+After starting my career as a veterinary nurse 🐾 and trimmer ✂️, I transitioned to tech and now focus on cloud infrastructure, automation, and programming with AWS.
+
+I enjoy improving efficiency and automating processes wherever possible — because manual tasks are just too tedious🤮🤮
+
+Outside of work:
+- 👨‍👩‍👧 Married and expecting a child in March 🍼
+- 🏂 Snowboarding enthusiast
+- 🎸 Guitar player
+- ⛺ Camping lover
+- 📚 Avid reader
+- 📷 Photography hobbyist
+- 🎭 Foreign dramas
+- 🎵 Music
+- 🎙️ Rakugo (traditional Japanese comic storytelling)
+- 🧴 Perfumes
+- and more...
 
 ## <img src="https://connpass.com/static/img/api/connpass_logo_3.png" height="20" alt="connpass logo"> Recent Connpass Events
 
 <!-- This section is automatically updated by GitHub Actions -->
+
+※API利用申請中
 
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
@@ -34,4 +53,4 @@ I'm a passionate developer interested in [your interests]. Currently, I'm workin
 
 ---
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=6" alt="Recently played" style="width: 100%; max-width: 800px; height: auto; display: block;" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=3" alt="Recently played" style="width: 100%; height: auto; display: block;" />
