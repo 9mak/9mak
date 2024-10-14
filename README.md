@@ -45,14 +45,14 @@ I also love:
 ## 📊 GitHub Stats
 
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" width="49.5%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=9" width="49.5%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" width="49.5%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9mak&theme=bear" width="49.5%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=9" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9mak&theme=bear" width="49%" />
 </div>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9mak&theme=bear" alt="Profile Details" width="100%" />
 
 ---
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=3" alt="Recently played" style="width: 100%; height: auto; display: block;" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=4" alt="Recently played" style="width: 100%; height: auto;" />
