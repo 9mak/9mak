@@ -8,14 +8,14 @@ I'm a passionate developer interested in [your interests]. Currently, I'm workin
 
 <h2 align="center">
   <img src="https://connpass.com/static/img/api/connpass_logo_3.png" height="25" alt="connpass logo">
-  Recent Connpass Events
+  Recent Events
 </h2>
 
 <!-- This section is automatically updated by GitHub Actions -->
 
 <h2 align="center">
   <img src="https://zenn.dev/images/logo-transparent.png" height="25" alt="Zenn logo">
-  Latest Zenn Articles
+  Latest Articles
 </h2>
 
 <!-- This section is automatically updated by GitHub Actions -->
