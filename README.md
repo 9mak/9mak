@@ -45,11 +45,13 @@ I also love:
 ## 📊 GitHub Stats
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=8" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9mak&theme=bear" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9mak&theme=bear" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9mak&theme=bear&utcOffset=8" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9mak&theme=bear" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9mak&theme=bear" width="100%" />
 </div>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9mak&theme=bear" alt="Profile Details" width="100%" />
 
 ---
 
