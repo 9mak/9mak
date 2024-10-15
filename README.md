@@ -55,4 +55,4 @@ I also love:
 
 ---
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=5&width=300" alt="Recently played" style="width: 100vw; height: 100vh" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=kazuki19940919&count=5&width=300" alt="Recently played" style="width: 100%; height: 100vh" />
