@@ -31,16 +31,16 @@ I also love:
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [Amazon Qについて調べてみた - AWSの新しいAIアシスタントの可能性](https://zenn.dev/ap_com/articles/search-amazon-q)
 - [[AWS] SigV4計算のコード書いてみた](https://zenn.dev/ap_com/articles/aws-sigv4-calclator)
 - [FlaskとDockerのさわりだけやってみた](https://zenn.dev/ap_com/articles/flask-setup-and-docker-guide)
 - [[Windows] 新しくPC買ったのでWSL2を導入してみる](https://zenn.dev/ap_com/articles/install-wsl2-on-windows)
 - [Route53のクエリログの見方調べてみた](https://zenn.dev/ap_com/articles/route53-query-logs-analysis)
-- [DialogFlow CXで天気予報チャットボットをつくる: Flow,Pages編](https://zenn.dev/ap_com/articles/dialogflow-chatbot-shuzo-weather-forecast-flowpage)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,css,py,js&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,css,js,dart&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
