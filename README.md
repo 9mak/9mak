@@ -31,16 +31,16 @@ I also love:
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [[AWS] せこいから無料サービスだけのプロジェクト考えた](https://zenn.dev/ap_com/articles/aws-free-tier-creative-projects)
 - [RSSについて気になったので調べてみた](https://zenn.dev/ap_com/articles/looked-into-rss)
 - [俺的おすすめAIチャットボット](https://zenn.dev/ap_com/articles/oreteki-ai-chatbot-recommendation)
 - [[AWS] Amazon Q Business良さそうなので徹底解説](https://zenn.dev/ap_com/articles/amazon-q-business-detail)
 - [ServiceNow World Forum 2024に行ってきた](https://zenn.dev/ap_com/articles/seivicenow-world-forum-2024-tokyo)
-- [Amazon Qについて調べてみた - AWSの新しいAIアシスタントの可能性](https://zenn.dev/ap_com/articles/search-amazon-q)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,py,js,css&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,css,dart,js&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
