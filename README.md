@@ -31,16 +31,16 @@ I also love:
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [AWS Lambda Layer追加時の注意点とエラー対策](https://zenn.dev/ap_com/articles/aws-lambda-layer-fix)
 - [Google ColabでLangChainを使ってGitHubリポジトリを学習させる](https://zenn.dev/ap_com/articles/github_repository_langchain_chatgpt)
 - [GitHubのProfile README自動更新するようにした](https://zenn.dev/ap_com/articles/github-super-cool-profile)
 - [[AWS] せこいから無料サービスだけのプロジェクト考えた](https://zenn.dev/ap_com/articles/aws-free-tier-creative-projects)
 - [RSSについて気になったので調べてみた](https://zenn.dev/ap_com/articles/looked-into-rss)
-- [俺的おすすめAIチャットボット](https://zenn.dev/ap_com/articles/oreteki-ai-chatbot-recommendation)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css,py,js,dart&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,css,dart&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
