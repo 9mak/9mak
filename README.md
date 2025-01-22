@@ -31,16 +31,16 @@ I also love:
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [[AWS] IAM Access Deniedエラー解決ガイド #4 - トラブルシューティングツール解説](https://zenn.dev/ap_com/articles/aws-iam-access-denied-troubleshooting-tools)
 - [[AWS] IAM Access Deniedエラー解決ガイド #3 - 条件付きアクセス制御](https://zenn.dev/ap_com/articles/aws-iam-access-denied-troubleshooting-conditional)
 - [[AWS] IAM Access Deniedエラー解決ガイド #2 - 組織レベルのアクセス制御](https://zenn.dev/ap_com/articles/aws-iam-access-denied-troubleshooting-organization)
 - [[AWS] IAM Access Deniedエラー解決ガイド #1 - 基本的なトラブルシューティング](https://zenn.dev/ap_com/articles/aws-iam-access-denied-troubleshooting-basic)
 - [AWS Bedrock Multi-Agent Collaboration機能で実現するAI活用パターン](https://zenn.dev/ap_com/articles/aws-bedrock-collaboration-innovative-usecase)
-- [[AWS] Amazon Bedrock Prompt Management が一般提供開始！新機能と活用方法](https://zenn.dev/ap_com/articles/amazon-bedrock-prompt-management-ga-release)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,css,py,dart&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,dart,py,css&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
