@@ -31,16 +31,16 @@ I also love:
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [VSCodeマスト設定！開発効率を2倍にする厳選設定一覧【完全ガイド】](https://zenn.dev/ap_com/articles/vscode-must-have-settings)
 - [Chrome開発者ツール解説: 効率的なWeb開発とデバッグのためのガイド](https://zenn.dev/ap_com/articles/chrome-devtools-efficient-web-development)
 - [[AWS] IAM Access Deniedエラー解決ガイド #4 - トラブルシューティングツール解説](https://zenn.dev/ap_com/articles/aws-iam-access-denied-troubleshooting-tools)
 - [[AWS] IAM Access Deniedエラー解決ガイド #3 - 条件付きアクセス制御](https://zenn.dev/ap_com/articles/aws-iam-access-denied-troubleshooting-conditional)
 - [[AWS] IAM Access Deniedエラー解決ガイド #2 - 組織レベルのアクセス制御](https://zenn.dev/ap_com/articles/aws-iam-access-denied-troubleshooting-organization)
-- [[AWS] IAM Access Deniedエラー解決ガイド #1 - 基本的なトラブルシューティング](https://zenn.dev/ap_com/articles/aws-iam-access-denied-troubleshooting-basic)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,css,js,py&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css,dart,js,py&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
