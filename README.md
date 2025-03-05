@@ -31,16 +31,16 @@ I also love:
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [AIチャットボットの使い分けガイド：Perplexity, Gemini, ChatGPT, Claudeの活用法](https://zenn.dev/ap_com/articles/ai-chatbot-usage-guide-202502)
 - [[AWS] Bedrockエージェントの単体利用とマルチエージェントコラボレーションの違いを解説](https://zenn.dev/ap_com/articles/aws-bedrock-agent-single-vs-multi-collaboration)
 - [完全解説！GitHub Copilot無料版の全機能とGemini 2.0 Flash対応](https://zenn.dev/ap_com/articles/github-copilot-free-complete-guide-202502)
 - [DeepSeekの全貌：AI業界を揺るがす中国発モデルの特異性と競争力](https://zenn.dev/ap_com/articles/deepseek-ai-revolution)
 - [VSCodeマスト設定！開発効率を2倍にする厳選設定一覧【完全ガイド】](https://zenn.dev/ap_com/articles/vscode-must-have-settings)
-- [Chrome開発者ツール解説: 効率的なWeb開発とデバッグのためのガイド](https://zenn.dev/ap_com/articles/chrome-devtools-efficient-web-development)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,py,js,css&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,css,js,dart&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
