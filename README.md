@@ -31,16 +31,16 @@ I also love:
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [個人向けデータストレージ比較：NAS vs AWS S3 Glacier Deep Archive](https://zenn.dev/ap_com/articles/nas-vs-s3-for-storage)
 - [KeePassの自動入力設定方法完全ガイド](https://zenn.dev/ap_com/articles/how-to-setup-keepass-auto-type)
 - [AIチャットボットの使い分けガイド：Perplexity, Gemini, ChatGPT, Claudeの活用法](https://zenn.dev/ap_com/articles/ai-chatbot-usage-guide-202502)
 - [[AWS] Bedrockエージェントの単体利用とマルチエージェントコラボレーションの違いを解説](https://zenn.dev/ap_com/articles/aws-bedrock-agent-single-vs-multi-collaboration)
 - [完全解説！GitHub Copilot無料版の全機能とGemini 2.0 Flash対応](https://zenn.dev/ap_com/articles/github-copilot-free-complete-guide-202502)
-- [DeepSeekの全貌：AI業界を揺るがす中国発モデルの特異性と競争力](https://zenn.dev/ap_com/articles/deepseek-ai-revolution)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,py,js,css&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,py,dart,css&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
