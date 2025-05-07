@@ -31,16 +31,16 @@ I also love:
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [CSSのベストプラクティスを勉強した話](https://zenn.dev/ap_com/articles/css-best-practices-study)
 - [たとえで学ぶ！MVC・MVP・MVVMの違いを解説](https://zenn.dev/ap_com/articles/mvc-mvp-mvvm-differences)
 - [Fragment の使い分け：React.Fragment と Fragment はどちらを使うべきか？](https://zenn.dev/ap_com/articles/react-fragment-guide)
 - [ちょっと前の自分に教えたいAnsibleのPlaybookの書き方](https://zenn.dev/ap_com/articles/ansible-playbook-tutorial)
 - [Pythonデコレーターで実現する効率的な共通処理のコード化](https://zenn.dev/ap_com/articles/efficient-python-decorators)
-- [Pythonデコレーター入門：概要から具体例まで](https://zenn.dev/ap_com/articles/python-decorator-introduction)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,dart,css&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,dart,py,css&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
