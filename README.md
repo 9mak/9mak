@@ -31,16 +31,16 @@ I also love:
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [ServiceNow CSA資格試験合格レポート](https://zenn.dev/ap_com/articles/servicenow-csa-certification-report)
 - [ServiceNowもA2Aに対応するらしいのでちょっと調べた](https://zenn.dev/ap_com/articles/servicenow-a2a-protocol)
 - [ServiceNowの全認定資格に関する包括的ガイド](https://zenn.dev/ap_com/articles/servicenow-certifications-complete-guide)
 - [CSSのベストプラクティスを勉強した話](https://zenn.dev/ap_com/articles/css-best-practices-study)
 - [たとえで学ぶ！MVC・MVP・MVVMの違いを解説](https://zenn.dev/ap_com/articles/mvc-mvp-mvvm-differences)
-- [Fragment の使い分け：React.Fragment と Fragment はどちらを使うべきか？](https://zenn.dev/ap_com/articles/react-fragment-guide)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,css,py,js&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css,js,py,dart&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
