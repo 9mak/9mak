@@ -31,16 +31,16 @@ I also love:
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [ServiceNowのライセンス体系をちゃんと理解する](https://zenn.dev/ap_com/articles/servicenow-license-guide-20260325)
 - [スマホからClaudeに仕事を投げられる「Dispatch」が登場](https://zenn.dev/ap_com/articles/claude-dispatch-cowork-20260319)
 - [Dify・Claude・Geminiの定期実行機能を比べてみた](https://zenn.dev/ap_com/articles/compare-dify-claude-gemini-schedule-20260318)
 - [ServiceNow CSA資格試験合格レポート](https://zenn.dev/ap_com/articles/servicenow-csa-certification-report)
 - [ServiceNowもA2Aに対応するらしいのでちょっと調べた](https://zenn.dev/ap_com/articles/servicenow-a2a-protocol)
-- [ServiceNowの全認定資格に関する包括的ガイド](https://zenn.dev/ap_com/articles/servicenow-certifications-complete-guide)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,py,html&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,js,py&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
