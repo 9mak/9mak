@@ -31,16 +31,16 @@ I also love:
 ## <img src="https://zenn.dev/images/logo-transparent.png" height="20" alt="Zenn logo"> Latest Zenn Articles
 
 <!-- This section is automatically updated by GitHub Actions -->
+- [ServiceNowのコメントでHTMLを送信する方法](https://zenn.dev/ap_com/articles/servicenow-comment-html-20260408)
 - [Gemma 4がリリース！ローカルLLM勢に嬉しい話](https://zenn.dev/ap_com/articles/gemma4-release-local-llm-20260406)
 - [Anthropicが8万人にAIインタビューした調査レポートが面白かった](https://zenn.dev/ap_com/articles/anthropic-81k-ai-survey-20260327)
 - [ServiceNow PDI構築ガイド【2026年Zurich版】](https://zenn.dev/ap_com/articles/servicenow-pdi-setup-guide-20260322)
 - [ServiceNowのライセンス体系をちゃんと理解する](https://zenn.dev/ap_com/articles/servicenow-license-guide-20260325)
-- [スマホからClaudeに仕事を投げられる「Dispatch」が登場](https://zenn.dev/ap_com/articles/claude-dispatch-cowork-20260319)
 
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,js,py&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,html&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
