@@ -40,7 +40,7 @@ I also love:
 ## 🛠 Skills
 
 <!-- This section is automatically updated by GitHub Actions -->
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts,html,astro&perline=6" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,html,ts,astro&perline=6" /></a>
 
 ## 📊 GitHub Stats
 
